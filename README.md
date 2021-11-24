@@ -15,4 +15,4 @@ Works on any browswer or localhost.
 
 1) Add button to reset game
 2) Disable buttons once the game is won
-3) Change CSS and make it prettier
+3) Add a scoreboard
